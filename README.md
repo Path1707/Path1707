@@ -4,7 +4,7 @@
 - 👩‍🎓Sou tecnóloga em Processos Gerenciais.
 - 👩🏽‍💻Atualmente trabalho na área administrativa , com enfase na manutenção dos softwares administrativos da empresa, principalmente com testes manuais.
 - 😍Depois que conheci a área teste de software me apaixonei.
-- 🤯Sou auto-didata com cede por aprender e conhecer.
+- 🤯Sou auto-didata com sede por aprender e conhecer.
 
 
 ### 📚Cursos:
