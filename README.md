@@ -20,7 +20,7 @@
 
 ### 📘Certificado:
 
-- Scrum
+- Scrum - SCRUMstudy
 
 
 ### 🛠️Ferramentas:
