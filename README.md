@@ -10,7 +10,7 @@
 ### 📚Cursos:
 
 - "Formação em Teste de Software" com automação - Iterasys.
-- Curso de Pyton - Gustavo Guanabara.
+- Curso de Pyton - Curso em Vídeo.
 - Introdução ao Teste de Software - USP.
 - BDD.
 - Gherkin.
