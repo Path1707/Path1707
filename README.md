@@ -1,6 +1,6 @@
 ### Olá, eu sou a Patrícia👋
 
--  🚀Atualmente trabalho como voluntária na Lacrei Saúde.
+-  🚀Atualmente trabalho como voluntária  de Analista de Testes de Software - QA na Lacrei Saúde.
 - 👩‍🎓Sou tecnóloga em Processos Gerenciais.
 - 😍Depois que conheci a área teste de software me apaixonei e sigo em aprendizado constante.
 - 🤯Sou auto-didata com sede por aprender e conhecer.
