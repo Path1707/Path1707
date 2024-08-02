@@ -1,6 +1,6 @@
 ### Olá, eu sou a Patrícia👋
 
--  🚀Atualmente trabalho Analista de Testes de Software.
+-  🚀Atualmente trabalho como Analista de Testes de Software.
 - 👩‍🎓Possuo pós-graduação em Engenharia de software com ênfase em teste de software.
 - 😍Depois que conheci a área teste de software me apaixonei e sigo em aprendizado constante.
 - 🤯Sou auto-didata com sede por aprender e conhecer.
